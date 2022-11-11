@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TIP120
+D TIP120
+F http://www.onsemi.cn/pub_link/Collateral/TIP120-D.PDF
+$ENDCMP
+# end doc library

@@ -1,0 +1,80 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# On Semiconductor TIP120
+#
+DEF TIP120 Q 0 40 Y Y 1 L N
+F0 "Q" 0 300 50 H V L CNN 
+F1 "TIP120" 0 400 50 H V L CNN 
+F2 "On_Semiconductor-TIP120-*" 0 500 50 H I L CNN 
+F3 "http://www.onsemi.cn/pub_link/Collateral/TIP120-D.PDF" 0 600 50 H I L CNN 
+F4 "Manufacturer URL" 0 700 50 H I L CNN "Component Link 1 Description"
+F5 "http://www.onsemi.com/" 0 800 50 H I L CNN "Component Link 1 URL"
+F6 "Package Specification" 0 900 50 H I L CNN "Component Link 3 Description"
+F7 "http://www.onsemi.com/pub_link/Collateral/221A-09.PDF" 0 1000 50 H I L CNN "Component Link 3 URL"
+F8 "Rev. 8" 0 1100 50 H I L CNN "Datasheet Version"
+F9 "5" 0 1200 50 H I L CNN "IC Continuous A"
+F10 "Through Hole" 0 1300 50 H I L CNN "Mounting Technology"
+F11 "3-Pin Flange Mount, Vertical Straight Lead, Body 9.97 x 4.445 mm, Pitch 2.54 mm" 0 1400 50 H I L CNN "Package Description"
+F12 "Rev. AG, 09/2011" 0 1500 50 H I L CNN "Package Version"
+F13 "Tube" 0 1600 50 H I L CNN "Packing"
+F14 "NPN" 0 1700 50 H I L CNN "Polarity"
+F15 "Trans" 0 1800 50 H I L CNN "category"
+F16 "858169" 0 1900 50 H I L CNN "ciiva ids"
+F17 "b7b559dc9e7316a4" 0 2000 50 H I L CNN "library id"
+F18 "On Semiconductor" 0 2100 50 H I L CNN "manufacturer"
+F19 "TO-220-3-221A-09" 0 2200 50 H I L CNN "package"
+F20 "1406888605" 0 2300 50 H I L CNN "release date"
+F21 "No" 0 2400 50 H I L CNN "rohs"
+F22 "EC439057-F5B5-4581-87D1-9D22A8A50DF4" 0 2500 50 H I L CNN "vault revision"
+F23 "yes" 0 2600 50 H I L CNN "imported"
+DRAW
+X B 1 0 0 100 R 40 0 1 1 P 
+X C 2 500 200 100 D 40 0 1 1 P 
+X E 3 500 -400 100 U 40 0 1 1 P 
+P 2 1 1 0 300 -100 300 -300 N
+P 2 1 1 0 100 0 100 -300 N
+P 2 1 1 0 100 -300 110 -300 N
+P 2 1 1 0 300 -100 400 -100 N
+P 2 1 1 0 300 100 500 100 N
+P 2 1 1 0 500 100 500 0 N
+P 2 1 1 0 600 -140 600 -300 N
+P 2 1 1 0 600 100 600 -70 N
+P 2 1 1 0 500 -300 600 -300 N
+P 2 1 1 0 500 100 600 100 N
+P 2 1 1 0 200 0 100 0 N
+P 2 1 1 0 500 -200 500 -300 N
+P 2 1 1 0 640 -70 560 -70 N
+P 4 1 1 0 640 -140 600 -70 560 -140 640 -140 N
+P 2 1 1 0 200 90 200 -90 N
+P 2 1 1 0 300 100 200 30 N
+P 2 1 1 0 400 -10 400 -190 N
+P 2 1 1 0 500 0 400 -70 N
+P 2 1 1 0 290 -300 310 -300 N
+P 2 1 1 0 490 -300 500 -300 N
+P 2 1 1 0 400 -130 500 -200 N
+P 4 1 1 0 500 -200 470 -150 440 -190 500 -200 N
+P 2 1 1 0 200 -30 300 -100 N
+P 4 1 1 0 240 -90 300 -100 270 -50 240 -90 N
+P 2 1 1 0 110 -300 140 -300 N
+P 2 1 1 0 140 -300 150 -270 N
+P 2 1 1 0 150 -270 170 -330 N
+P 2 1 1 0 170 -330 190 -270 N
+P 2 1 1 0 190 -270 210 -330 N
+P 2 1 1 0 210 -330 230 -270 N
+P 2 1 1 0 230 -270 250 -330 N
+P 2 1 1 0 250 -330 260 -300 N
+P 2 1 1 0 260 -300 290 -300 N
+P 2 1 1 0 310 -300 340 -300 N
+P 2 1 1 0 340 -300 350 -270 N
+P 2 1 1 0 350 -270 370 -330 N
+P 2 1 1 0 370 -330 390 -270 N
+P 2 1 1 0 390 -270 410 -330 N
+P 2 1 1 0 410 -330 430 -270 N
+P 2 1 1 0 430 -270 450 -330 N
+P 2 1 1 0 450 -330 460 -300 N
+P 2 1 1 0 460 -300 490 -300 N
+ENDDRAW
+ENDDEF
+#
+# End Library
